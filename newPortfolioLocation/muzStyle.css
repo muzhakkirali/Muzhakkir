@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Turret+Road:wght@500&display=swap');
+
+html, body {
+    width: 100%;
+    height: 100%; 
+}
+
+body {
+    background-image: url(portfolioImages/ColourfulGhostWallpaper.jpg);
+}
+
+div {
+    display:block;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+
+#muzJumbo {
+    margin-bottom: 50px;
+}
+
+.fancyText {
+    font-family: 'Turret Road', cursive; 
+    color: pink;
+}
+
+.fancyText2 {
+    font-family: 'Turret Road', cursive; 
+    color: black;
+    background-color: pink;
+}
+
+.container img {
+    width: 400px;
+    height: 400px;
+    
+}
+
+/* #navbar1 {
+    background-color:
+} */
+
+
+#experienceContainer {
+    width: 100%;
+    height: 20%;
+    background-color: #1a1c20;
+}
+/* Experiences section */
+#experienceContainerTitle {
+    width: 100;
+    height: 20%;
+    background-color: #1a1c20;
+
+}
+
+.fancyTextBG2 {
+    font-family: 'Turret Road', cursive; 
+    color: black;
+    background-color: pink;
+}
+
+/* .exp2 {
+    margin-top: 10px;
+} */
+
+
+
+.fancyTextBG {
+    font-family: 'Turret Road', cursive; 
+    color: pink;
+    background-color: #1a1c20;
+}
+
+/* #expHeader {
+    margin-bottom: 5px;
+} */
+
+/* .experiences1 {
+    margin-top: 100px;
+} */
+
+
+.underliner {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    color: pink;
+}
+
+.underliner2 {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    color: #1a1c20;
+}
+#mySkillsHeader {
+    margin-top: 10px;
+}
+
+/* svg {
+
+} */
+
+/* .iconHover {
+    stroke-dasharray: 300,0,3000;
+}
+
+svg:hover .iconHover {
+    animation: iconHover2 .7%;
+}
+
+
+
+@keyframes iconHover2 {
+    10% {
+        stroke-dasharray: 300,500,3000
+    }
+
+    100% {
+        stroke-dasharray: 3300,500,300;
+    }
+} */
+
+svg.svg-inline--fa:hover {
+    color:#3b5249!important;
+
+}
+
+#experienceContainerTitle {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.fab {
+    margin-right: 20px;
+}
+
+/* Icon related: */
+.fa-html5:hover {
+    color: #db6400;
+}
+
+ .fa-css3-alt:hover {
+     color: #db6400;
+  }
+    .fa-js:hover {
+     color: #db6400;
+ }
+  .fa-bootstrap:hover {
+     color: #db6400;
+ }
+ .fa-git-alt:hover {
+        color: #db6400;
+ }
+ .fa-slack:hover {
+        color: #db6400;
+ }
+
+
+.fa-pen:hover {
+    color: #db6400;
+}
+
+.fa-eye:hover {
+    color: #db6400;
+}
+
+
+.fa-laugh-beam:hover {
+    color: #db6400;
+}
+
+.fa-users:hover {
+    color: #db6400;
+}
+
+.fa-microphone:hover {
+    color: #db6400; 
+}
+
+.fa-linkedin:hover {
+    color:#db6400;
+} 
+
+.fa-envelope:hover {
+    color:#db6400;
+}
+/* 
+footer {
+    background-image: url("portfolioImages/DarkGengarWallpaper.jpg");
+    background-size: cover;
+} */
+
+/* .fa-linkedin {
+    text-decoration: none;
+    color: inherit;
+}
+i {
+    
+    color:pink;
+}*/
+
+
+ /* .futurePlans {
+     margin-top: 10px;
+ } */
+
+#linkedinIcon {
+    text-decoration: : none;
+}
+
+#linkedinIcon2 {
+    text-decoration: none;
+}
+
+#bottom {
+    margin-top: 10px;
+}
+
+#aboutMeContainer {
+    margin-top: 20px;
+}
